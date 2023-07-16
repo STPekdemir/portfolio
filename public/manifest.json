@@ -1,0 +1,13 @@
+{
+  "icons": [
+    {
+      "src": "images/logo.png",
+      "type": "image/png",
+      "sizes": "425x225"
+    }
+  ],
+
+  "display": "standalone",
+
+  "background_color": "#ffffff"
+}

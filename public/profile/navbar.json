@@ -1,0 +1,31 @@
+{
+  "logo": {
+    "source": "android-chrome-512x512.png",
+    "height": 45,
+    "width": 50
+  },
+  "sections": [
+    {
+      "title": "Home",
+      "href": "/"
+    },
+    {
+      "title": "About",
+      "href": "/about"
+    },
+    {
+      "title": "Skills",
+      "href": "/skills"
+    },
+
+    {
+      "title": "Projects",
+      "href": "/projects"
+    },
+    {
+      "title": "Resume",
+      "href": "https://drive.google.com/file/d/1NDD5csPWOWq2T0x2uEsOFSZDwcHT_hMe/view",
+      "type": "link"
+    }
+  ]
+}
