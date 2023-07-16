@@ -13,8 +13,8 @@ module.exports = {
   },
   plugins: ["react"],
   rules: {
-    "prefer-template": 0,
-    "react/no-children-prop": [0],
-    "linebreak-style": 0,
+    "prefer-template": "off",
+    "react/no-children-prop": "off",
+    "linebreak-style": "off",
   },
 };
